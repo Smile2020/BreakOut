@@ -1,0 +1,15 @@
+﻿  game.cpp
+e:\vs workspace\breakout\breakout\game.cpp(53): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+e:\vs workspace\breakout\breakout\game.cpp(54): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+e:\vs workspace\breakout\breakout\game.cpp(55): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+e:\vs workspace\breakout\breakout\game.cpp(56): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+e:\vs workspace\breakout\breakout\game.cpp(57): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+e:\vs workspace\breakout\breakout\game.cpp(161): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\vs workspace\breakout\breakout\game.cpp(296): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+e:\vs workspace\breakout\breakout\game.cpp(298): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+e:\vs workspace\breakout\breakout\game.cpp(300): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+e:\vs workspace\breakout\breakout\game.cpp(302): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+  main.cpp
+e:\vs workspace\breakout\breakout\main.cpp(68): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码...
+  Breakout.vcxproj -> E:\VS WorkSpace\Breakout\Debug\Breakout.exe
